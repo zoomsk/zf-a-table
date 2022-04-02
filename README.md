@@ -1,5 +1,7 @@
 # zfa-table  
 介绍：zf-table是基于ant-design-vue a-table封装的一个表格组件 ,依赖于ant design vue
+# demo地址  
+https://github.com/zoomsk/zf-a-table-demo  
 
 ##### props   
 `title` 表格标题  
